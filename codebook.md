@@ -1,9 +1,3 @@
----
-title: "Codebook"
-author: "Prashanth Chari"
-date: "5/25/2020"
-output: html_document
----
 
 ## Getting and Cleaning Data Project
 
